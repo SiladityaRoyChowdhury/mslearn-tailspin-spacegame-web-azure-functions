@@ -103,7 +103,6 @@ stages:
                     "slotSetting": false
                   }
                 ]
-
           - task: AzureAppServiceSettings@1
             displayName: 'Update web app settings'
             inputs:
